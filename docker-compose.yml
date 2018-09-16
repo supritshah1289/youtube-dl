@@ -1,0 +1,4 @@
+suprit-youtube-dl:
+    image: 'mariozig/youtube-dl_server'
+    ports:
+      - '80:9191'
